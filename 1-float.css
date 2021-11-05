@@ -1,0 +1,76 @@
+/* Nada Shawky Omer */
+/* SEC 5 */
+/* CS */
+body{
+    background-color: rgb(177 175 175 / 23%)
+}
+.nav{
+    background-color: rgb(29, 25, 25);
+    color: white;
+    height: 70px;
+    margin: -8px;
+}
+.nav ul{
+    list-style: none;
+    padding-left: 0;
+    overflow: hidden;
+    float: left;
+}
+.nav ul li{
+    float : left;
+    padding: 10px;
+}
+.nav .right{
+    float: right;
+}
+
+
+.all .left{
+    width: 60%;
+    float: left;
+}
+.all .left .top .klam ,.all .left .bottom .klam  {
+    padding-left: 24px;
+}
+.all .left .top ,.all .left .bottom {
+    background-color: white;
+    height: 23rem;
+    margin-left: -20%;
+    margin-bottom: 15px;
+}
+.all .right{
+    width: 26.5%;
+    float: right;
+    margin-top: -6px; 
+    overflow: hidden;   
+}
+.all .right >div{
+    background-color: white;
+}
+.all .right .top {
+    height: 10rem;
+}
+.all .right img{
+    width: 38%;
+    display: block;
+    padding-bottom: 6px;
+
+}
+.all .right .klam{
+    padding-left: 15px;
+}
+.all .right .bottom .klam h2{
+    padding-top: 10px;
+}
+.all .right .bottom .klam p{
+    padding-bottom: 12px;   
+}
+
+
+footer{
+    clear: both;
+    background-color: #8f8c8cb3;
+    text-align: center;
+    font-size: 26px;
+    margin: 0 -9px 0px;
+}
